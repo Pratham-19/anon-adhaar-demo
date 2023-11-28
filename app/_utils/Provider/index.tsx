@@ -1,4 +1,6 @@
 // ("");
+"use client";
+
 import { AnonAadhaarProvider } from "anon-aadhaar-react";
 
 const Providers = ({ children }: { children: React.ReactNode }) => {
